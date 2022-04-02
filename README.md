@@ -5,3 +5,6 @@ Based on binance pairs
 
 ### Sequence diagram
 ![](crypto-volume-tracker.png)
+
+### Deployment view
+![](deployment-view.png)
