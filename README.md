@@ -30,4 +30,4 @@ Phase 2
 ![](metadatservices-deploymentview.png)
 
 ### Cost projection
-Total cost [1.59](https://calculator.aws/#/estimate?id=7e4f5c441ab962270b44a77d47a3107ca8e86036) USD /month
+Total cost [36](https://calculator.aws/#/estimate?id=f459b6bf1912a37586cb3b79dd4981c920262f4d) USD /month
