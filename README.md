@@ -1,6 +1,14 @@
 # crypto-volume-tracker
 Based on binance pairs 
 
+## Features
+MVP
+- Track volume change of crypto future pairs from binance 
+- Recommendation pair that should deep analysis on  1Hr and 4Hr
+
+Phase 2
+- Send alert to discord channel
+
 ## High level design
 
 ### Technology stack
