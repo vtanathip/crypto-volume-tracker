@@ -5,6 +5,7 @@ Based on binance pairs
 MVP
 - Track volume change of crypto future pairs from binance 
 - Recommendation pair that should deep analysis on  1Hr and 4Hr
+- Fake call statistic 
 
 Phase 2
 - Send alert to discord channel
