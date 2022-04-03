@@ -13,4 +13,9 @@ Based on binance pairs
 ![](crypto-volume-tracker.png)
 
 ### Deployment view
+
+#### Application
 ![](deployment-view.png)
+
+#### Metadata Service
+![](metadatservices-deploymentview.png)
